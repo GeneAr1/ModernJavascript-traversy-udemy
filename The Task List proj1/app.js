@@ -1,5 +1,2 @@
 // Define UI varialbles
 //
-//
-//
-//
