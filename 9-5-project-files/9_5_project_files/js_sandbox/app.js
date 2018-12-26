@@ -33,12 +33,12 @@ re = /^([0-9]x){3}$/
 // Shorthand Character Classes
 re = /\w/;    // Word character - alphanumeric or _
 re = /\w+/;    // + = one or more
-re = /\W/;    // Non-Word character
+re = /\W/;    // Non-Word character capital W
 re = /\d/;    // Match any digit
 re = /\d+/;    // Match any digit 0 or more times
-re = /\D/;      // Match any Non-digit
+re = /\D/;      // Match any Non-digit capital D
 re = /\s/;      // Match whitespace char
-re = /\S/;      // Match non-whitespace char
+re = /\S/;      // Match non-whitespace char capital S
 re = /Hell\b/i; // Word boundary
 
 // Assertions
